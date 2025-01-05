@@ -26,8 +26,8 @@ function Projects() {
               title="Tailored-Tails"
               description="Built a full-stack MERN application using React, GraphQL, Node.js, Express.js, and MongoDB, with authentication.
               Focused on user demand, with a polished, responsive, and interactive UI, and adhered to quality coding standards and best practices."
-              ghLink="https://github.com/RDCERP/my-stores"
-              demoLink="https://my-stores.herokuapp.com/"
+              ghLink="https://github.com/moreza66/Tailored-Tails"
+              demoLink="https://thailored-tails.onrender.com/"
             />
           </Col>
 
